@@ -27,7 +27,7 @@ Below is a simple 7-location winter adventure map your team may use or modify:
 
 ## 🗓️ 3-Day Sprint Checklists
 
-### **Day 1 — Brainstorming + Planning (Majority of the Day)**  
+### **Day 1 — Brainstorming + Planning**  
 **Goals:** Build the concept, world, and class structure.
 
 **Checklist:**  
